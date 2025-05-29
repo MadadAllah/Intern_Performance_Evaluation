@@ -29,9 +29,12 @@ From evaluating task duration and project quality to leaderboards, departmental 
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼🎥 Dashboard Demo Video
 
-![sample_dashboard](img/sample_dashboard.png)
+<video controls width="700" style="max-width: 100%;">
+  <source src="videos/Dashboard_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
